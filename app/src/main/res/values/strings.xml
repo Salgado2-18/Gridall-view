@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Gridall</string>
+    <string-array name="countries">
+        <item>This flag belongs to Germany</item>
+        <item>This flag belongs to Brazil</item>
+        <item>This flag belongs to France</item>
+        <item>This flag belongs to India</item>
+        <item>This flag belongs to Liberia</item>
+        <item>This flag belongs to United Kingdom</item>
+        <item>This flag belongs to Malaysiya</item>
+        <item>This flag belongs to Pakistan</item>
+        <item>This flag belongs to Qatar</item>
+        <item>This flag belongs to Scotland</item>
+        <item>This flag belongs to Sri Lanka</item>
+        <item>This flag belongs to Thailand</item>
+        <item>This flag belongs to UAE</item>
+        <item>This flag belongs to Afganistan</item>
+        <item>This flag belongs to Myanmar</item>
+        <item>This flag belongs to North Korea</item>
+        <item>This flag belongs to Portugal</item>
+        <item>This flag belongs to South Korean</item>
+        <item>This flag belongs to Spain</item>
+        <item>This flag belongs to Italy</item>
+        <item>This flag belongs to Australia</item>
+
+
+    </string-array>
+</resources>
